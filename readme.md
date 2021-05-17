@@ -1,6 +1,6 @@
 ## Speed Typer Typing Game
 Live link:
- https://ludeng303.github.io/typing-game/
+ https://xiaolu-ignite.github.io/typing-game/
 
 Game to beat the clock by typing random words
 
